@@ -1,4 +1,4 @@
-final float rootX=500,rootY=900;
+final float rootX=300,rootY=900;
 final float length0=300;
 final float weight0=20;
 final float anRange=PI/3;
@@ -9,7 +9,7 @@ final int budsPerBranchH=10;
 final float reduceL=0.6;
 final float reduceH=0.8;
 final float rLeaf=35;
-final float alphaLeaf=30;
+final float alphaLeaf=15;
 void setup() {
   size(1000, 1000);
   colorMode(RGB, 255);
